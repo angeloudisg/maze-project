@@ -1,5 +1,7 @@
 Maze Challenge Project
 
+Used dfs and bfs algorithms to complete the maze challenge. 
+
 References:
 
 https://www.baeldung.com/java-solve-maze
